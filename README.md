@@ -7,6 +7,16 @@ Resource list of [ASAudio](): A Survey of Advanced Spatial Audio Research.
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]()
 [![GitHub Stars](https://img.shields.io/github/stars/dieKarotte/ASAudio?style=social)](https://github.com/dieKarotte/ASAudio)
 
+We introduce ASAudio, a comprehensive survey covering the representations, understanding tasks, and generation tasks in spatial audio, as well as the relevant datasets and evaluation metrics.
+
+In this repository, we provide links to related papers and their corresponding code.
+
+We hope this helps you appreciate the fascinating world of spatial audio!
+
+## News
+
+- 
+
  # 🚀Quick Start 
 
 - [ASAudio: A Survey of Advanced Spatial Audio Research](#asaudio-a-survey-of-advanced-spatial-audio-research)
