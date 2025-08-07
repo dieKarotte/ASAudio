@@ -1,5 +1,9 @@
 # ASAudio: A Survey of Advanced Spatial Audio Research
 
+#### Zhiyuan Zhu*, Yu Zhang*, Wenxiang Guo, Changhao Pan*, Zhou Zhao | Zhejiang University
+
+Resource list of [ASAudio](): A Survey of Advanced Spatial Audio Research.
+
  # 🚀Quick Start 
 
 - [ASAudio: A Survey of Advanced Spatial Audio Research](#asaudio-a-survey-of-advanced-spatial-audio-research)
