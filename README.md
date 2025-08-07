@@ -4,6 +4,9 @@
 
 Resource list of [ASAudio](): A Survey of Advanced Spatial Audio Research.
 
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]()
+[![GitHub Stars](https://img.shields.io/github/stars/dieKarotte/ASAudio?style=social)](https://github.com/dieKarotte/ASAudio)
+
  # 🚀Quick Start 
 
 - [ASAudio: A Survey of Advanced Spatial Audio Research](#asaudio-a-survey-of-advanced-spatial-audio-research)
@@ -1980,3 +1983,11 @@ Table 7: The list of Joint Learning Papers and their URL
 </table>
 Table 9: The list of Spatial Audio Datasets and their URL
 </div>
+
+## Citations ##
+
+If you find this code useful in your research, please cite our work:
+```bib
+```
+
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dieKarotte/ASAudio)
