@@ -1960,7 +1960,7 @@ Table 7: The list of Joint Learning Papers and their URL
             <td valign="middle"><center>Audio</center></td>
             <td valign="middle"><center>Video</center></td>
             <td valign="middle">
-            <a href="https://arxiv.org/abs/2406.12199" target="_blank"><img height="20" src="https://img.shields.io/badge/arXiv-Paper-brightgreen" alt="arXiv Paper"></a>
+            <a href="https://arxiv.org/abs/2506.12199" target="_blank"><img height="20" src="https://img.shields.io/badge/arXiv-Paper-brightgreen" alt="arXiv Paper"></a>
             </td>
         </tr>
         <tr>
