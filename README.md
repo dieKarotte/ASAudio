@@ -1942,7 +1942,7 @@ Table 7: The list of Joint Learning Papers and their URL
             </td>
         </tr>
         <tr>
-            <td valign="middle"><a href="https://zenodo.org/record/7880637" target="_blank"><center>Link</center></a></td>
+            <td valign="middle"><a href="https://zenodo.org/record/7880637" target="_blank"><center>STARSS23</center></a></td>
             <td valign="middle"><center>FOA</center></td>
             <td valign="middle"><center>Recorded</center></td>
             <td valign="middle"><center>7.5</center></td>
