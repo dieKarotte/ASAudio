@@ -1899,7 +1899,7 @@ Table 7: The list of Joint Learning Papers and their URL
         </tr>
         <tr>
             <td valign="middle"><a href="https://github.com/facebookresearch/EasyComDataset" target="_blank"><center>EasyCom</center></a></td>
-            <td valign="middle"><center>Binaural</center></td>
+            <td valign="middle"><center>Multi</center></td>
             <td valign="middle"><center>Recorded</center></td>
             <td valign="middle"><center>5</center></td>
             <td valign="middle"><center>Speech</center></td>
